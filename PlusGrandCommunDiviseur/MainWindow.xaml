@@ -1,0 +1,39 @@
+﻿<Window x:Class="PlusGrandCommunDiviseur.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calcul de PGCD" Height="497" Width="514">
+    <Grid>
+        <Button Content="Trouver PGCD (2 Entiers)" Height="23" HorizontalAlignment="Left" Margin="12,157,0,0" Name="trouverPGCD" VerticalAlignment="Top" Width="161" Click="Calculer_PGCD_Click" />
+        <Label Content="Euclide:0 " Height="28" HorizontalAlignment="Left" Margin="12,186,0,0" Name="resultatEuclide" VerticalAlignment="Top" Width="Auto" />
+        <Label Content="Stein: 0" Height="28" HorizontalAlignment="Left" Margin="12,208,0,0" Name="resultatStein" VerticalAlignment="Top" Width="Auto" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="entier1" VerticalAlignment="Top" Width="120" Text="0" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,41,0,0" Name="entier2" VerticalAlignment="Top" Width="120" Text="0" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,70,0,0" Name="entier3" Text="0" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,99,0,0" Name="entier4" Text="0" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,128,0,0" Name="entier5" Text="0" VerticalAlignment="Top" Width="120" />
+        <StackPanel Height="305" HorizontalAlignment="Left" Margin="202,12,0,0" Name="chartCanvas" VerticalAlignment="Top" Width="280" Orientation="Vertical">
+         </StackPanel>
+        <Button Content="Trouver PGCD (3 Entiers)" Height="23" HorizontalAlignment="Left" Margin="12,242,0,0" Name="trouverPGCD3" VerticalAlignment="Top" Width="161"  Click="Calculer_PGCD_Click"/>
+        <Button Content="Trouver PGCD (4 Entiers)" Height="23" HorizontalAlignment="Left" Margin="12,268,0,0" Name="trouverPGCD4" VerticalAlignment="Top" Width="161"  Click="Calculer_PGCD_Click" />
+        <Button Content="Trouver PGCD (5 Entiers)" Height="23" HorizontalAlignment="Left" Margin="12,294,0,0" Name="trouverPGCD5" VerticalAlignment="Top" Width="161"  Click="Calculer_PGCD_Click" />
+        <ListBox Height="101" HorizontalAlignment="Left" Margin="203,344,0,0" Name="euclidColor" VerticalAlignment="Top" Width="74" SelectedIndex="0">
+            <ListBoxItem Content="Rouge" />
+            <ListBoxItem Content="Vert" />
+            <ListBoxItem Content="Bleue" />
+            <ListBoxItem Content="Noir" />
+        </ListBox>
+        <ListBox Height="101" HorizontalAlignment="Left" Margin="283,345,0,0" Name="steinColor" VerticalAlignment="Top" Width="74" SelectedIndex="0">
+            <ListBoxItem Content="Rouge" />
+            <ListBoxItem Content="Vert" />
+            <ListBoxItem Content="Bleue" />
+            <ListBoxItem Content="Noir" />
+        </ListBox>
+        <ListBox Height="101" HorizontalAlignment="Left" Margin="363,345,0,0" Name="chartOrientation" VerticalAlignment="Top" Width="74" SelectedIndex="0">
+            <ListBoxItem Content="Vertical" />
+            <ListBoxItem Content="Horizontal" />
+         </ListBox>
+        <Label Content="Euclide" Height="25" HorizontalAlignment="Left" Margin="203,323,0,0" Name="label1" VerticalAlignment="Top" Width="76" />
+        <Label Content="Stein" Height="25" HorizontalAlignment="Left" Margin="283,323,0,0" Name="label2" VerticalAlignment="Top" Width="76" />
+        <Label Content="Orientation" Height="25" HorizontalAlignment="Left" Margin="363,323,0,0" Name="label3" VerticalAlignment="Top" Width="76" />
+    </Grid>
+</Window>

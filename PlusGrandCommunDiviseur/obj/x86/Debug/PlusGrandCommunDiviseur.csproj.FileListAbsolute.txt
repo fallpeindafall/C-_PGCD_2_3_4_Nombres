@@ -1,0 +1,93 @@
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\bin\Debug\Module3.exe
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\bin\Debug\Module3.pdb
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\MainWindow.baml
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\MainWindow.g.cs
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\App.g.cs
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\Module3_MarkupCompile.cache
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\Module3.g.resources
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\Module3.exe
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\Module3.pdb
+K:\Formation\C#\Lab 3\Ex1\Starter\GreatestCommonDivisor\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\bin\Debug\Module3.exe
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\bin\Debug\Module3.pdb
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.baml
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.g.cs
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\App.g.cs
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\Module3_MarkupCompile.cache
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.g.resources
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Formation\C#\Lab 3\Souche1\PlusGrandCommunDiviseur\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Récup Bobo\C#\Lab 3\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+D:\Récup Bobo\C#\Lab 3\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.baml
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.g.cs
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\App.g.cs
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3_MarkupCompile.cache
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.g.resources
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.exe
+C:\Users\asus\Desktop\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.pdb
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.exe
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.pdb
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csprojResolveAssemblyReference.cache
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.baml
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\App.g.cs
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3_MarkupCompile.cache
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.g.resources
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.GenerateResource.Cache
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.CoreCompileInputs.cache
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+C:\Users\sambo_bayero\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.exe
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.pdb
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csprojAssemblyReference.cache
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.baml
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\App.g.cs
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3_MarkupCompile.cache
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.g.resources
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.GenerateResource.cache
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.CoreCompileInputs.cache
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+C:\Users\MAHAMADOU Alio\Downloads\cours C#\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.exe
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.pdb
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csprojAssemblyReference.cache
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.baml
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\App.g.cs
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3_MarkupCompile.cache
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.g.resources
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.GenerateResource.cache
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.CoreCompileInputs.cache
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+C:\Users\MAHAMADOU Alio\Desktop\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.exe
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\bin\Debug\Module3.pdb
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csprojAssemblyReference.cache
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.baml
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\MainWindow.g.cs
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\App.g.cs
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3_MarkupCompile.cache
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.g.resources
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.Properties.Resources.resources
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.GenerateResource.cache
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\PlusGrandCommunDiviseur.csproj.CoreCompileInputs.cache
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.exe
+C:\Users\HD\source\repos\PGCD\Souche\PlusGrandCommunDiviseur\obj\x86\Debug\Module3.pdb
